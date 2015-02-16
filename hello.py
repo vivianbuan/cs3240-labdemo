@@ -1,3 +1,7 @@
 __author__ = 'Vivian Liu'
 
-print("hello")
+
+def greeting(msg):
+    print(msg)
+
+greeting("hello")
