@@ -1,7 +1,6 @@
 __author__ = 'Vivian Liu'
 
+from helper import greeting
 
-def greeting(msg):
-    print(msg)
 
 greeting("hello")
