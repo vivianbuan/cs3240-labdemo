@@ -1,3 +1,3 @@
 # cs3240-labdemo
 
-Try to change it in another way
+This is a simple demo for CS3240 lab04
